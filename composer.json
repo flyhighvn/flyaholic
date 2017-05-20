@@ -1,0 +1,13 @@
+{
+    "name": "flyhigh/ghienbay",
+    "description": "Models for ghienbay",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Flyhigh",
+            "email": "developer.flyhigh@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
